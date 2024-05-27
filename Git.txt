@@ -6,4 +6,4 @@ Git VS symbol -> Source Control
 
 Git Init-> 
 1) This command is used to create new Git Repository in Our Project Folder
-2) 
+2) It track changes in our project file such as committing, adding and modifying changes.
